@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SIP Caller</string>
+    <string name="call">Call</string>
+    <string name="saved_domain">domain</string>
+</resources>
